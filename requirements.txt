@@ -1,0 +1,9 @@
+fastapi==0.98.0          # FastAPI framework for building APIs
+uvicorn==0.22.0          # ASGI server for running FastAPI
+python-multipart==0.0.6  # For handling file uploads
+pillow==9.5.0            # For image processing
+numpy==1.24.4            # For numerical operations
+opencv-python-headless==4.8.0.74  # OpenCV for image processing (headless for servers)
+requests==2.31.0         # For making HTTP API calls
+pyzbar==0.1.10           # For decoding QR codes
+PyMuPDF==1.22.5          # For working with PDFs
